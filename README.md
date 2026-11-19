@@ -187,9 +187,9 @@ Otros proyectos experimentales de **Roni Bandini**, que exploran Edge AI, TinyML
 
 Algunas presentaciones y charlas técnicas relacionadas:
 
-- Debconf 2026 https://www.youtube.com/watch?v=j1ibrSdVRW8&t=1443s
+- Debconf 2026 https://www.youtube.com/watch?v=j1ibrSdVRW8
 
-- Nerdearla Argentina 2026 https://www.youtube.com/watch?v=tHoXuh8T9Z4&t=164s
+- Nerdearla Argentina 2026 https://www.youtube.com/watch?v=tHoXuh8T9Z4
 
 ---
 
