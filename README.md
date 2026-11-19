@@ -187,11 +187,9 @@ Otros proyectos experimentales de **Roni Bandini**, que exploran Edge AI, TinyML
 
 Algunas presentaciones y charlas técnicas relacionadas:
 
-- **[Edge Machine Learning on Small Devices with Debian – DebConf 26](https://debconf26.debconf.org/talks/)**  
-  Edge Machine Learning, Linux embebido e implementación de modelos de Machine Learning en dispositivos compactos.
+- Debconf 2026 https://www.youtube.com/watch?v=j1ibrSdVRW8&t=1443s
 
-- **[Dispositivos Maker para detectar drones (y reaccionar) – Nerdearla Argentina 2026](https://nerdearla.com/argentina/schedule/dispositivos-maker-para-detectar-drones-y-reaccionar/)**  
-  Análisis de radiofrecuencia, Machine Learning, visión artificial y detección multicapa de drones.
+- Nerdearla Argentina 2026 https://www.youtube.com/watch?v=tHoXuh8T9Z4&t=164s
 
 ---
 
@@ -223,6 +221,3 @@ Miembro del programa Qualcomm / Edge Impulse Expert Network.
 - [Arduino](https://www.arduino.cc/)
 - [Qualcomm](https://www.qualcomm.com/)
 
-**Desarrollado por Roni Bandini — Contracultura Maker**
-
-[GitHub](https://github.com/ronibandini) · [Medium](https://bandini.medium.com/) · [X](https://x.com/RoniBandini)
