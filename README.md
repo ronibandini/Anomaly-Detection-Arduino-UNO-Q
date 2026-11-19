@@ -193,11 +193,6 @@ Algunas presentaciones y charlas técnicas relacionadas:
 - **[Dispositivos Maker para detectar drones (y reaccionar) – Nerdearla Argentina 2026](https://nerdearla.com/argentina/schedule/dispositivos-maker-para-detectar-drones-y-reaccionar/)**  
   Análisis de radiofrecuencia, Machine Learning, visión artificial y detección multicapa de drones.
 
-- **[Detección de anomalías con Edge Machine Learning – Nerdearla México 2026](https://www.nerdearla.com/mexico/schedule/deteccion-de-anomalias-con-edge-machine-learning/)**  
-  Introducción a la detección de anomalías, Edge ML y una implementación práctica de detección visual.
-
-- **[Ver la charla sobre detección de drones – NERDflix](https://nerdearla.com/nerdflix/tHoXuh8T9Z4/)**
-
 ---
 
 ## 👨‍💻 Sobre el autor
