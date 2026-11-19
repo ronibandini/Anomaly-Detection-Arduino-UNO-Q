@@ -9,8 +9,12 @@ USB Hub
 # Entrenar el modelo
 
 Registrarse en Edge Impulse https://www.edgeimpulse.com/
-Subir las fotos bajo la etiqueta no anomaly
+Subir las fotos bajo la etiqueta "no anomaly"
 Entrenar el modelo con learning block FOMO-AD
+
+** Es importante que la posición, orientación e iluminación sean uniformes para evitar falsos positivos
+
+También es posible clonar el siguiente proyecto https://studio.edgeimpulse.com/public/374008/live 
 
 # Setup
 
@@ -26,6 +30,6 @@ Ejecutar $edge-impulse-linux-runner
 Loguearse y seleccionar el proyecto.
 
 Salir con CTRL C
-Copiar anomaly.py por FTP o bien via Nano, copy-paste en línea de comandos
+Copiar anomaly.py por FTP al Arduino UNO Q o bien via SSH, Nano, copy-paste en línea de comandos, CTRL X, Y
 
 Ejecutar python3 anomaly.py
