@@ -1,8 +1,6 @@
 # 🔍 Detección Visual de Anomalías con Edge Machine Learning, Nerdearla MX 2026
 
-Desarrollado para explorar las posibilidades del hardware accesible y los modelos compactos de Machine Learning, este proyecto permite identificar patrones visuales inesperados sin depender de servicios de inferencia en la nube.
-
-El sistema aprende cómo se ve un objeto o una escena en condiciones normales y detecta desviaciones respecto de ese patrón.
+Proyecto demo de la charla Deteccion de anomalías con Edge Machine Learning 19/11/2026, ExpoReforma CDMX
 
 ---
 
