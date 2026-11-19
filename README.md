@@ -220,9 +220,6 @@ Miembro del programa Qualcomm / Edge Impulse Expert Network.
 | LinkedIn | [Roni Bandini](https://www.linkedin.com/in/ronibandini/) |
 | Medium | [bandini.medium.com](https://bandini.medium.com/) |
 
-
-Para talleres, conferencias, colaboraciones y proyectos experimentales, no dudes en contactarme.
-
 ---
 
 ## 🙏 Agradecimientos
