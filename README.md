@@ -1,7 +1,5 @@
 # 🔍 Detección Visual de Anomalías con Edge Machine Learning, Nerdearla MX 2026
 
-### Edge Machine Learning · Visión Artificial · Edge Impulse · FOMO-AD
-
 Desarrollado para explorar las posibilidades del hardware accesible y los modelos compactos de Machine Learning, este proyecto permite identificar patrones visuales inesperados sin depender de servicios de inferencia en la nube.
 
 El sistema aprende cómo se ve un objeto o una escena en condiciones normales y detecta desviaciones respecto de ese patrón.
@@ -132,25 +130,16 @@ Copiar el archivo `anomaly.py` al Arduino UNO Q.
 
 Se puede utilizar:
 - FTP
-- SSH
-- Copiar y pegar desde la terminal utilizando Nano
+- SSH, copiando y pegando desde la terminal utilizando Nano
+
+## ▶️ 5. Ejecutar la detección de anomalías
 
 Abrir anomaly.py y editar
 
 CONFIDENCE_THRESHOLD = 8.0 // limite de confianza para la detección
+
 WEBHOOK_URL = "" // URL opcional para llamar a un endpoint (notificaciones, automatizaciones, etc)
 
-
-Para editar el archivo directamente:
-
-```bash
-nano anomaly.py
-```
-Copiar el contenido de anomaly.py
-
-Guardar con `CTRL + X` y luego `Y`.
-
-## ▶️ 5. Ejecutar la detección de anomalías
 
 Ejecutar el script de Python:
 
@@ -232,7 +221,7 @@ Miembro del programa Qualcomm / Edge Impulse Expert Network.
 | YouTube | [Roni Bandini](https://www.youtube.com/@RoniBandini) |
 | LinkedIn | [Roni Bandini](https://www.linkedin.com/in/ronibandini/) |
 | Medium | [bandini.medium.com](https://bandini.medium.com/) |
-| Linktree | [linktr.ee/ronibandini](https://linktr.ee/ronibandini) |
+
 
 Para talleres, conferencias, colaboraciones y proyectos experimentales, no dudes en contactarme.
 
@@ -240,8 +229,8 @@ Para talleres, conferencias, colaboraciones y proyectos experimentales, no dudes
 
 ## 🙏 Agradecimientos
 
-- [Arduino](https://www.arduino.cc/)
 - [Edge Impulse](https://www.edgeimpulse.com/)
+- [Arduino](https://www.arduino.cc/)
 - [Qualcomm](https://www.qualcomm.com/)
 
 **Desarrollado por Roni Bandini — Contracultura Maker**
